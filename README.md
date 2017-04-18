@@ -1,4 +1,7 @@
-# api documentation for  [react-relay (v0.10.0)](https://facebook.github.io/relay/)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-relay.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-relay) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-relay.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-relay)
+# npmdoc-react-relay
+
+#### api documentation for  [react-relay (v0.10.0)](https://facebook.github.io/relay/)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-relay.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-relay) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-relay.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-relay)
+
 #### A framework for building data-driven React applications.
 
 [![NPM](https://nodei.co/npm/react-relay.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/react-relay)
